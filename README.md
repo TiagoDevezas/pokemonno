@@ -1,9 +1,6 @@
 # Pokémon No
 
-1. Drag this link to your bookmark bar: [Pokémon No][1]
-2. Click it every time you see the words Pokémon Go to display something more pleasant...
-
-[1]:javascript:(function() {
+	1. Drag this link to your bookmark bar: <a href="javascript:(function() {
 	var tags = "p, h1, h2, h3, h4, h5, li";
 	var allTags = document.querySelectorAll(tags);
 	var regex = /(pokémon|pokemon)(?= go)/gi;
@@ -16,4 +13,6 @@
 			allTags[i].innerHTML = newInnerHtml;
 		}
 	}
-})();
+})();">Pokémon NO</a>
+2. Click it every time you see the words Pokémon Go to display something more pleasant...
+
