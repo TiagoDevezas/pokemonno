@@ -1,5 +1,5 @@
-# Pokémon No
+# Pokémon NO
 
-1. Create a new bookmark and paste the code from the [Javascript file](https://raw.githubusercontent.com/TiagoDevezas/pokemonno/master/pokemonNo.js).
+1. Create a new bookmark, give it a name (I suggest Pokémon NO), and paste the code from this [Javascript file](https://raw.githubusercontent.com/TiagoDevezas/pokemonno/master/pokemonNo.js).
 2. Click it every time you see the words Pokémon Go to display something more pleasant...
 
